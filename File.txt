@@ -1,4 +1,4 @@
-function1()
+function12()
 {
 
 Whoa ky.
@@ -11,3 +11,5 @@ This is also garbage.
 
 
 I just love adding some garbage. 
+
+garbage garbage garbage
